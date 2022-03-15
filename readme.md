@@ -3,7 +3,7 @@
 [![Size][size-badge]][size]
 
 List of ~240,000 English words.
-Derived from [the Dehkhoda word list][dehkhoda].
+Derived from [the Dehkhoda dictionary][dehkhoda].
 
 ## Install
 

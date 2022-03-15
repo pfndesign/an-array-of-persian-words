@@ -1,6 +1,6 @@
 {
   "name": "an-array-of-persian-words",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "list of ~240,000 persian words",
   "main": "words.json",
   "bin": {
