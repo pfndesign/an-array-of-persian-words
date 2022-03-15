@@ -1,10 +1,9 @@
 # `an-array-of-persian-words`
-
 [![Downloads][downloads-badge]][downloads]
 [![Size][size-badge]][size]
 
 List of ~240,000 English words.
-Derived from [the Dehkhoda word list][dehkoda].
+Derived from [the Dehkhoda word list][dehkhoda].
 
 ## Install
 
