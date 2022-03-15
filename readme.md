@@ -1,6 +1,5 @@
 # `an-array-of-persian-words`
 
-[![Build][build-badge]][build]
 [![Downloads][downloads-badge]][downloads]
 [![Size][size-badge]][size]
 
@@ -101,6 +100,6 @@ $ words | egrep '^.{10}$' | gshuf | head -10
 
 [author]: https://www.linkedin.com/in/pfndesign
 
-[letterpress]: https://dehkhoda.ut.ac.ir/fa/dictionary
+[dehkhoda]: https://dehkhoda.ut.ac.ir/fa/dictionary
 
 [shuf]: https://en.wikipedia.org/wiki/Shuf
