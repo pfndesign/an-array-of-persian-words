@@ -1,0 +1,38 @@
+{
+  "name": "an-array-of-persian-words",
+  "version": "1.0.0",
+  "description": "list of ~240,674 persian words",
+  "main": "words.json",
+  "bin": {
+    "words": "./cli.js",
+    "an-array-of-english-words": "./cli.js"
+  },
+  "files": [
+    "words.json",
+    "cli.js"
+  ],
+  "scripts": {
+    "test-api": "node test",
+    "test": "npm run test-api"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfndesign/an-array-of-persian-words.git"
+  },
+  "keywords": [
+    "array",
+    "list",
+    "persian",
+    "word",
+    "words"
+  ],
+  "author": "Peyman Farahmand <pfndesigen@gmail.com> (https://www.linkedin.com/in/pfndesign)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pfndesign/an-array-of-persian-words/issues"
+  },
+  "homepage": "https://github.com/pfndesign/an-array-of-persian-words#readme",
+  "devDependencies": {
+    "tape": "^5.5.2"
+  }
+}
