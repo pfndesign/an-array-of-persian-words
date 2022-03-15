@@ -26,11 +26,14 @@ Yields:
 
 ```js
 [
-  'antifungal',
-  'antifungals',
-  'bifunctional',
-  'cofunction',
-  'cofunctions',
+  'آب',
+  'آب آسیا',
+  'آب آشنا',
+  'آب آلو',
+  'آب آمیخته',
+  'آب آورد',
+  'آب آورده',
+  'آب آهک',
   // …and many more
 ]
 ```
