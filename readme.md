@@ -83,6 +83,11 @@ Ten random ten-letter words (note: on macOS, do `brew install coreutils` to get
 ```sh
 $ words | egrep '^.{10}$' | gshuf | head -10
 ```
+## Related
+
+*   [`persian-words-category`](https://github.com/pfndesign/persian-words-category)
+*   [`similar-persian-words`](https://github.com/pfndesign/similar-persian-words)
+*   [`persian-words-pronunciation`](https://github.com/pfndesign/persian-words-pronunciation)
 
 [MIT][license] © [Peyman farahmand][author]
 
